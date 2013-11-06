@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace Inventario
 {
     partial class Inventario_disponible
     {
